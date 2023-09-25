@@ -59,15 +59,15 @@ contact: 'team@carpentries.org' # FIXME
 
 # Order of episodes in your lesson
 episodes: 
-#- introduction.md
+- introduction.md
 - setting-the-scene.md
 - s1-setting-up-environment-for-collaborative-code-development.md
-- s1-introduction-to-our-software-project.md
-- s1-virtual-environments-for-software-development.md
-- s1-integrated-software-development-environments.md
-- s1-collaborative-software-development-using-git-and-github.md
-- s1-python-code-style-conventions.md
-- s1-verifying-code-style-using-linters.md
+#- s1-introduction-to-our-software-project.md
+#- s1-virtual-environments-for-software-development.md
+#- s1-integrated-software-development-environments.md
+#- s1-collaborative-software-development-using-git-and-github.md
+#- s1-python-code-style-conventions.md
+#- s1-verifying-code-style-using-linters.md
 #- s2-ensuring-correctness-of-software-at-scale.md
 #- s2-automatically-testing-software.md
 #- s2-scaling-up-unit-testing.md
