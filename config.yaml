@@ -60,6 +60,35 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- setting-the-scene.md
+- s1-setting-up-environment-for-collaborative-code-development
+- s1-introduction-to-our-software-project
+- s1-virtual-environments-for-software-development
+- s1-integrated-software-development-environments
+- s1-collaborative-software-development-using-git-and-github
+- s1-python-code-style-conventions
+- s1-verifying-code-style-using-linters
+- s2-ensuring-correctness-of-software-at-scale
+- s2-automatically-testing-software
+- s2-scaling-up-unit-testing
+- s2-continuous-integration-for-automated-testing
+- s2-diagnosing-issues-and-improving-robustness
+- s3-software-development-as-a-process
+- s3-software-requirements
+- s3-software-architecture-and-design
+- s3-programming-paradigms
+- s3-functional-programming
+- s3-object-oriented-programming
+- s3-architecture-revisited:-extending-software
+- s4-collaborative-software-development-for-reuse
+- s4-developing-software-in-a-team:-code-review
+- s4-preparing-software-for-reuse-and-release
+- s4-packaging-code-for-release-and-distribution
+- s5-managing-and-improving-software-over-its-lifetime
+- s5-managing-a-collaborative-software-project
+- s5-assessing-software-for-suitability-and-improvement
+- s5-software-improvement-through-feedback
+- s5-wrap-up
 
 # Information for Learners
 learners: 
