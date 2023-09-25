@@ -58,6 +58,12 @@
     <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-setting-up-environment-for-collaborative-code-development.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/setting-the-scene.html</loc>
+  </url>
+  <url>
     <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor-notes.html</loc>
   </url>
   <url>
@@ -71,5 +77,11 @@
   </url>
   <url>
     <loc>https://Carpentries-Workbench-Template.github.io/NA/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-setting-up-environment-for-collaborative-code-development.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/setting-the-scene.html</loc>
   </url>
 </urlset>
