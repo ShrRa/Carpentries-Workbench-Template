@@ -1,9 +1,12 @@
 ---
 site: sandpaper::sandpaper_site
 ---
+This is a lesson for intermediate research software development for LSST astronomers
+::::::::::::::::::::::::::::::::::::::::::  prereq
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+## Prerequisites
+
+For this lesson we need Jupyter Lab
 
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
-
+::::::::::::::::::::::::::::::::::::::::::::::::::
