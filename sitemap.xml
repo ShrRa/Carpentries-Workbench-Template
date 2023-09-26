@@ -58,7 +58,25 @@
     <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-collaborative-software-development-using-git-and-github.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-integrated-software-development-environments.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-introduction-to-our-software-project.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-python-code-style-conventions.html</loc>
+  </url>
+  <url>
     <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-setting-up-environment-for-collaborative-code-development.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-verifying-code-style-using-linters.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/s1-virtual-environments-for-software-development.html</loc>
   </url>
   <url>
     <loc>https://Carpentries-Workbench-Template.github.io/NA/instructor/setting-the-scene.html</loc>
@@ -79,7 +97,25 @@
     <loc>https://Carpentries-Workbench-Template.github.io/NA/reference.html</loc>
   </url>
   <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-collaborative-software-development-using-git-and-github.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-integrated-software-development-environments.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-introduction-to-our-software-project.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-python-code-style-conventions.html</loc>
+  </url>
+  <url>
     <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-setting-up-environment-for-collaborative-code-development.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-verifying-code-style-using-linters.html</loc>
+  </url>
+  <url>
+    <loc>https://Carpentries-Workbench-Template.github.io/NA/s1-virtual-environments-for-software-development.html</loc>
   </url>
   <url>
     <loc>https://Carpentries-Workbench-Template.github.io/NA/setting-the-scene.html</loc>
